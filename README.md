@@ -42,3 +42,4 @@ If you have any problems running the code, please contact me on github."
 Yes, there are new updates, and they are here:
 - Updated backgrounds that increase clarity (yay)
 - Keep in mind, you only need the JPEG files. I added the PNGs because PNGs to show the old version.
+- Code has been cleared up a little bit. A wee little ittle wittle bit. 
